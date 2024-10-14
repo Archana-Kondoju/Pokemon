@@ -33,13 +33,13 @@ This project is a simple React web application that features a responsive Login 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/react-login-signup-dashboard.git
+   https://github.com/Archana-Kondoju/react-application.git
    ```
 
 2. Navigate into the project directory:
 
    ```bash
-   cd react-login-signup-dashboard
+   cd react-application 
    ```
 
 3. Install the dependencies:
@@ -62,12 +62,13 @@ This project is a simple React web application that features a responsive Login 
 ├── public
 │   └── index.html
 ├── src
-│   ├── components
+│   ├── pages
 │   │   ├── Login.jsx
 │   │   ├── Signup.jsx
 │   │   ├── Dashboard.jsx
 │   ├── App.js
 │   ├── AuthContext.js
+|   ├── PrivateRoute.js
 │   ├── index.js
 └── README.md
 ```
